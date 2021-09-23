@@ -1,8 +1,7 @@
 """ This file consists of Assignment 1A
-- Nakshi Dudhiya, 000793267
+- Nakshi Dudhiya
   Mohawk College
 Date: Sept 22, 2021
-Statement of authorship:  I, Nakshi Dudhiya, certify that all code submitted is my own work. I also certify that I have not allowed my work to be copied by others.
 """
 
 import numpy as np
